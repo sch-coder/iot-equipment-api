@@ -1,0 +1,19 @@
+# Environnement virtuel Python
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables d'environnement SECRÈTES
+.env
+
+# VS Code
+.vscode/
+
+# Tests
+.pytest_cache/
+
+# Logs
+*.log
